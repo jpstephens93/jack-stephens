@@ -10,7 +10,7 @@ L7 AI & Data Science Apprenticeship - Cambridge Spark
 ## Expertise
 - 🌟 Quantitative Analysis
 - 📊 Data Science & Statistical Modeling
-- ⚙️ Algorithmic Trading
+- ⚙️ Systematic Trading
 - 💼 Risk Management
 
 ## Technical Skills
