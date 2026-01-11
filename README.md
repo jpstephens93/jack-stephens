@@ -1,6 +1,6 @@
 ## Hi there! I'm Jack 👋
 
-Quant Researcher with interests in Finance, Physics and Football!
+A Quantitative Analyst by trade with interests in Finance, Physics and Football!
 
 ## Qualifications
 MSc Mathematics - King's College London
