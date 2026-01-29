@@ -1,21 +1,21 @@
 ## Hi there! I'm Jack 👋
 
-A Quantitative Analyst by trade with interests in Finance, Physics and Football!
+A Data Scientist / Quantitative Analyst by trade with interests in Finance, Physics and Football!
 
 ## Qualifications
-MSc Mathematics - King's College London
-BSc Mathematics with Economics - Exeter University
-L7 AI & Data Science Apprenticeship - Cambridge Spark
+* MSc Mathematics - King's College London
+* BSc Mathematics with Economics - Exeter University
+* L7 AI & Data Science Apprenticeship - Cambridge Spark
 
 ## Expertise
-- 🌟 Quantitative Analysis
-- 📊 Data Science & Statistical Modeling
+- 🌟 Quantitative Analytics
+- 📊 Data Science & Statistical Modelling
 - ⚙️ Systematic Trading
 - 💼 Risk Management
 
 ## Technical Skills
 - Programming: Python, R, SQL, C++
-- Tools & Libraries: Pandas, NumPy, Scikit-learn
+- Tools & Libraries: pandas, numpy, scikit-learn, mlforecast, streamlit, etc.
 - Financial Modeling: Time Series Analysis, Monte Carlo Simulation, Portfolio Optimisation
 
 ## Contact
